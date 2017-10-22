@@ -4,4 +4,5 @@
 - Self Adversarial Training for Human Pose Estimation [paper](https://arxiv.org/pdf/1707.02439.pdf)
 
 ## 2016
+- Stacked Hourglass Networks for Human Pose Estimation [paper](https://arxiv.org/pdf/1603.06937.pdf) [torch](https://github.com/anewell/pose-hg-train)
 - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [paper](https://arxiv.org/pdf/1611.08050.pdf) [caffe](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) [pytorch](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
