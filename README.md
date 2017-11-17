@@ -5,6 +5,7 @@
 - Learning Feature Pyramids for Human Pose Estimation [paper](https://arxiv.org/pdf/1708.01101.pdf) [https://github.com/bearpaw/PyraNet](torch)
 
 ## 2016
+- Convolutional Pose Machines [paper](https://arxiv.org/pdf/1602.00134v4.pdf) [caffe](https://github.com/shihenw/convolutional-pose-machines-release)
 - Stacked Hourglass Networks for Human Pose Estimation [paper](https://arxiv.org/pdf/1603.06937.pdf) [torch](https://github.com/anewell/pose-hg-train)
 - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [paper](https://arxiv.org/pdf/1611.08050.pdf) [caffe](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) [pytorch](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
 
