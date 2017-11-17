@@ -2,7 +2,7 @@
 - Multi-Context Attention for Human Pose Estimation [paper](https://arxiv.org/pdf/1702.07432.pdf) [torch](https://github.com/bearpaw/pose-attention)
 - Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [paper](https://arxiv.org/pdf/1705.00389.pdf) [code(null)](https://github.com/Captain-Xiong/Adversarial-PoseNet)
 - Self Adversarial Training for Human Pose Estimation [paper](https://arxiv.org/pdf/1707.02439.pdf)
-- Learning Feature Pyramids for Human Pose Estimation [paper](https://arxiv.org/pdf/1708.01101.pdf) [https://github.com/bearpaw/PyraNet](torch)
+- Learning Feature Pyramids for Human Pose Estimation [paper](https://arxiv.org/pdf/1708.01101.pdf) [torch](https://github.com/bearpaw/PyraNet)
 - A Greedy Part Assignment Algorithm for Realtime Multi-Person 2D Pose Estimation [paper](https://arxiv.org/ftp/arxiv/papers/1708/1708.09182.pdf)
 - Human Pose Estimation using Global and Local Normalization [paper](https://arxiv.org/pdf/1709.07220.pdf)
 
