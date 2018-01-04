@@ -23,7 +23,7 @@
 ### 3D
 - Towards 3D Human Pose Estimation in theWild: aWeakly-supervised Approach [ICCV2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Towards_3D_Human_ICCV_2017_paper.pdf)
 - Learning Deep and Compact Models for Gesture Recognition [paper](https://arxiv.org/pdf/1712.10136.pdf)
-- Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach [paper](https://arxiv.org/pdf/1704.02447.pdf
+- Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach [paper](https://arxiv.org/pdf/1704.02447.pdf)
 - Structure-Aware and Temporally Coherent 3D Human Pose Estimation [paper](https://arxiv.org/pdf/1711.09250.pdf)
 - Learning Knowledge-guided Pose Grammar Machine for 3D Human Pose Estimation [paper](https://arxiv.org/pdf/1710.06513.pdf)
 - MonoPerfCap: Human Performance Capture from Monocular Video [paper](https://arxiv.org/pdf/1708.02136.pdf)
@@ -50,17 +50,13 @@
 - Human pose estimation via Convolutional Part Heatmap Regression [paper](https://arxiv.org/pdf/1609.01743.pdf)
 
 ## 2015
-### 2D
 - Human Pose Estimation with Iterative Error Feedback [paper](https://arxiv.org/pdf/1507.06550.pdf)
 
 ## 2014
-### 2D
 - Articulated Pose Estimation by a Graphical Model with Image Dependent Pairwise Relations [nips2014]()
 
 ## 2013
-### 2D
 - DeepPose: Human Pose Estimation via Deep Neural Networks [paper](https://arxiv.org/pdf/1312.4659.pdf)
-### 3D
 - Monocular Image 3D Human Pose Estimation under Self-Occlusion [ICCV2013](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Radwan_Monocular_Image_3D_2013_ICCV_paper.pdf)
 
 ## Before 2013
