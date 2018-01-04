@@ -21,7 +21,6 @@
 - Multi-Context Attention for Human Pose Estimation [paper](https://arxiv.org/pdf/1702.07432.pdf) [torch](https://github.com/bearpaw/pose-attention)
 
 ### 3D
-- Towards 3D Human Pose Estimation in theWild: aWeakly-supervised Approach [ICCV2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Towards_3D_Human_ICCV_2017_paper.pdf)
 - Learning Deep and Compact Models for Gesture Recognition [paper](https://arxiv.org/pdf/1712.10136.pdf)
 - Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach [paper](https://arxiv.org/pdf/1704.02447.pdf)
 - Structure-Aware and Temporally Coherent 3D Human Pose Estimation [paper](https://arxiv.org/pdf/1711.09250.pdf)
