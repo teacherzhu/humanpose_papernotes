@@ -61,8 +61,11 @@
 
 ## Before 2013
 - Pictorial Structures Revisited: People Detection and Articulated Pose Estimation [cvpr2009]()
+- http://vision.imar.ro/human3.6m/ils_iccv11.pdf [iccv2011](http://vision.imar.ro/human3.6m/ils_iccv11.pdf)
 
 ## dataset
 - xxx
 - mpii
 - PoseTrack [site](https://posetrack.net/) [paper](https://arxiv.org/pdf/1710.10000.pdf) [ICCV2017 result](https://posetrack.net/workshops/iccv2017/posetrack-challenge-results.html)
+- Human3.6M [paper](http://vision.imar.ro/human3.6m/pami-h36m.pdf) [link](https://vision.imar.ro/human3.6m/)
+- HumanEva [link](http://humaneva.is.tue.mpg.de/)
