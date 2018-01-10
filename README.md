@@ -61,7 +61,7 @@
 
 ## Before 2013
 - Pictorial Structures Revisited: People Detection and Articulated Pose Estimation [cvpr2009]()
-- http://vision.imar.ro/human3.6m/ils_iccv11.pdf [iccv2011](http://vision.imar.ro/human3.6m/ils_iccv11.pdf)
+- Latent Structured Models for Human Pose Estimation [iccv2011](http://vision.imar.ro/human3.6m/ils_iccv11.pdf)
 
 ## dataset
 - xxx
