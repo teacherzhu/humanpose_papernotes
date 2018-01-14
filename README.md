@@ -19,6 +19,7 @@
 - Generative Partition Networks for Multi-Person Pose Estimation [paper](https://arxiv.org/pdf/1705.07422.pdf)
 - Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [paper](https://arxiv.org/pdf/1705.00389.pdf) [code(null)](https://github.com/Captain-Xiong/Adversarial-PoseNet)
 - Multi-Context Attention for Human Pose Estimation [paper](https://arxiv.org/pdf/1702.07432.pdf) [torch](https://github.com/bearpaw/pose-attention)
+- Mass Displacement Networks [paper](https://arxiv.org/pdf/1708.03816.pdf)
 
 ### 3D
 - Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation [paper](https://arxiv.org/pdf/1710.06513.pdf)
