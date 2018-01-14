@@ -48,6 +48,7 @@
 - Stacked Hourglass Networks for Human Pose Estimation [paper](https://arxiv.org/pdf/1603.06937.pdf) [torch](https://github.com/anewell/pose-hg-train)
 - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [paper](https://arxiv.org/pdf/1611.08050.pdf) [caffe](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) [pytorch](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
 - Human pose estimation via Convolutional Part Heatmap Regression [paper](https://arxiv.org/pdf/1609.01743.pdf)
+- Deep Kinematic Pose Regression [paper](https://arxiv.org/pdf/1609.05317.pdf)
 
 ## 2015
 - Human Pose Estimation with Iterative Error Feedback [paper](https://arxiv.org/pdf/1507.06550.pdf)
